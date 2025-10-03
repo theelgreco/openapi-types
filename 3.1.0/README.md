@@ -1,11 +1,11 @@
-# @types/openapi-v3.1.0
+# openapi-types-v3.1.0
 
 TypeScript type definitions for the OpenAPI 3.1.0 specification.
 
 ## Installation
 
 ```sh
-npm install @types/openapi-v3.1.0
+npm install openapi-types-v3.1.0
 ```
 
 ## Usage
@@ -44,7 +44,7 @@ import type {
     OAuthFlowsObject,
     OAuthFlowObject,
     TagObject,
-} from "@types/openapi-v3.1.0/types/v3.1.0";
+} from "openapi-types-v3.1.0/types";
 ```
 
 ## License
