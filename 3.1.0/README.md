@@ -1,5 +1,7 @@
 # openapi-types-v3.1.0
 
+[![npm version](https://img.shields.io/npm/v/openapi-types-v3.1.0?color=blue)](https://www.npmjs.com/package/openapi-types-v3.1.0)
+
 TypeScript type definitions for the OpenAPI 3.1.0 specification.
 
 ## Installation
