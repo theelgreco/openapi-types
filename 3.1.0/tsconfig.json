@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "declaration": true,
+        "emitDeclarationOnly": true,
+        "strict": true,
+        "target": "ES2019",
+        "module": "ESNext",
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true
+    },
+    "include": ["types/v3.1.0.d.ts"]
+}
