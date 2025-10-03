@@ -1,6 +1,6 @@
 {
     "name": "openapi-types-v3.1.0",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "TypeScript type definitions for OpenAPI 3.1.0 specification.",
     "main": "types/v3.1.0.d.ts",
     "types": "types/v3.1.0.d.ts",
