@@ -46,7 +46,7 @@ import type {
     OAuthFlowsObject,
     OAuthFlowObject,
     TagObject,
-} from "openapi-types-v3.1.0/types";
+} from "openapi-types-v3.1.0";
 ```
 
 ## License
