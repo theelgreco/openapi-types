@@ -7,7 +7,7 @@ TypeScript type definitions for the OpenAPI 3.1.0 specification.
 ## Installation
 
 ```sh
-npm install openapi-types-v3.1.0
+npm install -D openapi-types-v3.1.0
 ```
 
 ## Usage
